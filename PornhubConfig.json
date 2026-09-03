@@ -1,0 +1,19 @@
+{
+	"name": "PornHub",
+	"description": "PornHub source for Grayjay (community starter)",
+	"author": "adman101241",
+	"authorUrl": "https://github.com/adman101241",
+	"platformUrl": "https://www.pornhub.com",
+	"sourceUrl": "https://raw.githubusercontent.com/adman101241/PHFixed/main/PornhubConfig.json",
+	"repositoryUrl": "https://github.com/adman101241/PHFixed",
+	"scriptUrl": "./PornhubScript.js",
+	"version": 1,
+	"iconUrl": "./pornhub.png",
+	"id": "dce06efc-862e-11ee-b9d1-0242ac120002",
+	"packages": ["Http", "DOMParser"],
+	"allowAllHttpHeaderAccess": true,
+	"allowEval": true,
+	"allowUrls": [
+		".pornhub.com"
+	]
+}
